@@ -1,3 +1,5 @@
+**This repository was created as part of an AWS interview process**
+
 ## Prerequisites
 
 ### Create AWS Security Credentials
